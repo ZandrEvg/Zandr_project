@@ -14,7 +14,7 @@ Pandas Python SciPy
 проверка статистических гипотез
 
 # Файлы
-AB тестирование.ipynb - тетрадь jupyter notebook
+AB тестирование.ipynb - тетрадь jupyter notebook <br/>
 AB тестирование.pdf - проект в формате pdf для более быстрого ознакомления
 
 
