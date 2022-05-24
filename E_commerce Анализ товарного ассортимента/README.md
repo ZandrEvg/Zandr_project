@@ -5,6 +5,7 @@
 * произвести исследовательский анализ данных; 
 * проанализировать торговый ассортимент; 
 * сформулировать и проверить статистические гипотезы.
+* ABC и XYZ анализ
 
 # Стек:
 pandas, numpy, scipy, sklearn, standardscaler, kmeans, dendrogram, linkage, matplotlib, seaborn, plotly, pymystem3, collections
